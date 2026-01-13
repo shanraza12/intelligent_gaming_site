@@ -34,7 +34,7 @@ The purpose of this project is to understand:
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page](gaming_site/games/images/home.png)
+![Home Page](C:\Users\Mera Tech\Desktop\Weather-Prediction-main\Weather-Prediction-main\gaming_site\games\images\home.png)
 
 ### 🎮 Games Page
 ![Games Page](gaming_site/games/images/games.png)
