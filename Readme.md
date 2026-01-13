@@ -34,13 +34,13 @@ The purpose of this project is to understand:
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page](C:\Users\Mera Tech\Desktop\Weather-Prediction-main\Weather-Prediction-main\gaming_site\games\images\home.png)
+![Home Page](games\images\home.png)
 
 ### 🎮 Games Page
-![Games Page](gaming_site/games/images/games.png)
+![Games Page](games/images/games.png)
 
 ### ❌ Tic Tac Toe Game
-![Tic Tac Toe](gaming_site/games/images/tictactoe.png)
+![Tic Tac Toe](games/images/tictactoe.png)
 
 ---
 
