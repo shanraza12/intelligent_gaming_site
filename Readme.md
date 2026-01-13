@@ -34,13 +34,13 @@ The purpose of this project is to understand:
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page](gaming/images/home.png)
+![Home Page](gaming_site/games/images/home.png)
 
 ### 🎮 Games Page
-![Games Page](gaming/images/games.png)
+![Games Page](gaming_site/games/images/games.png)
 
 ### ❌ Tic Tac Toe Game
-![Tic Tac Toe](gaming/images/tictactoe.png)
+![Tic Tac Toe](gaming_site/games/images/tictactoe.png)
 
 ---
 
