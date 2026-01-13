@@ -108,7 +108,7 @@ Check Collision
 ## ❌ Tic Tac Toe – Logic Overview
 
 **Game Flow:**
-
+```bash
 
 
 Player Turn
@@ -120,7 +120,7 @@ Check Winner
 ├── Draw → Show Draw
 └── Continue Game
 
-
+```
 **Winning Conditions:**
 - Rows
 - Columns
