@@ -54,7 +54,7 @@ The purpose of this project is to understand:
 ---
 
 ## 📁 Project Structure
-``` bash
+```bash
 GameHub/
 │
 ├── index.html # Home Page
@@ -77,7 +77,7 @@ GameHub/
 ├── home.png
 ├── games.png
 └── tictactoe.png
-
+```
 
 ---
 
@@ -85,7 +85,7 @@ GameHub/
 
 **Game Flow:**
 
-
+```bash
 
 Start Game
 ↓
