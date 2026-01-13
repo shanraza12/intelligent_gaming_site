@@ -34,7 +34,7 @@ The purpose of this project is to understand:
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page](games\images\home.png)
+![Home Page](games/images/home.png)
 
 ### 🎮 Games Page
 ![Games Page](games/images/games.png)
