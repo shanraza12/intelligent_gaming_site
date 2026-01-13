@@ -9,19 +9,22 @@
 <h1>Tic Tac Toe</h1>
 
 <div class="board">
-    <div class="cell" onclick="play(this)"></div>
-    <div class="cell" onclick="play(this)"></div>
-    <div class="cell" onclick="play(this)"></div>
-    <div class="cell" onclick="play(this)"></div>
-    <div class="cell" onclick="play(this)"></div>
-    <div class="cell" onclick="play(this)"></div>
-    <div class="cell" onclick="play(this)"></div>
-    <div class="cell" onclick="play(this)"></div>
-    <div class="cell" onclick="play(this)"></div>
+    <div class="cell" onclick="play(this,0)"></div>
+    <div class="cell" onclick="play(this,1)"></div>
+    <div class="cell" onclick="play(this,2)"></div>
+    <div class="cell" onclick="play(this,3)"></div>
+    <div class="cell" onclick="play(this,4)"></div>
+    <div class="cell" onclick="play(this,5)"></div>
+    <div class="cell" onclick="play(this,6)"></div>
+    <div class="cell" onclick="play(this,7)"></div>
+    <div class="cell" onclick="play(this,8)"></div>
 </div>
 
 <p id="status">Player X Turn</p>
-<a href="../../games.html">⬅ Back</a>
+
+<button class="restart-btn" onclick="restartGame()">Restart</button>
+<br><br>
+<a class="back-btn" href="../../games.html">⬅ Back to Games</a>
 
 <script src="tictactoe.js"></script>
 </body>
